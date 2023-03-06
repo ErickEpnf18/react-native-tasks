@@ -2,3 +2,15 @@ navigation page for support
 https://reactnavigation.org/docs/getting-started/
 
 color attractive 22ef3e
+
+
+
+npm install --global eas-cli
+npx create-expo-app app-tasks-tech
+eas init --id c395dfbd-658a-46fc-8152-ce6b7642341d
+
+npm install --global eas-cli
+eas init --id c395dfbd-658a-46fc-8152-ce6b7642341d
+
+
+

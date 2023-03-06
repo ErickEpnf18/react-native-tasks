@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "myapp",
+    "name": "app-tasks-tech",
     "slug": "app-tasks-tech",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -25,12 +25,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "c395dfbd-658a-46fc-8152-ce6b7642341d"
-      }
-    },
-    "owner": "erickdevf18"
+    }
   }
 }

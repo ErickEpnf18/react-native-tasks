@@ -39,5 +39,4 @@ export const updateTask = async (id, newTask) => {
     headers: { Accept: "application/json", "Content-Type": "application/json" },
     body: JSON.stringify(newTask),
   });
-  return res;
 }

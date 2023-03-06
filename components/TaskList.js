@@ -15,7 +15,12 @@ const TaskList = () => {
     setTasks(data);
   };
   useEffect(() => {
+    loadTasks();
+    if (isFocused) {
       loadTasks();
+      console.log(isFocused)
+
+    }
   }, [isFocused]);
 
     const handleDelete = async(id) => {
