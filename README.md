@@ -67,5 +67,5 @@ Features to cover:
 ## App ScreenShot
 
 <p align="center">
-    <img src="assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/shot.jpeg" alt="Logo" width="240" height="540">
     </p>
