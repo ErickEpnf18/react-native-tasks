@@ -1,0 +1,4 @@
+navigation page for support
+https://reactnavigation.org/docs/getting-started/
+
+color attractive 22ef3e
